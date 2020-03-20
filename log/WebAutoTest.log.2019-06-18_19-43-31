@@ -1,0 +1,23 @@
+2019-06-18 19:43:31,537 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 362
+2019-06-18 19:43:31,538 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:31,543 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/url {"url": "http://127.0.0.1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:31,976 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/url HTTP/1.1" 200 72
+2019-06-18 19:43:31,977 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:31,977 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "class name", "value": "share-shopcar-index", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:32,001 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 103
+2019-06-18 19:43:32,002 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:32,003 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.18861419227162535-1/click {"id": "0.18861419227162535-1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:32,671 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element/0.18861419227162535-1/click HTTP/1.1" 200 72
+2019-06-18 19:43:32,672 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:32,672 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "class name", "value": "checkCartAll", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:32,687 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 102
+2019-06-18 19:43:32,687 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:32,687 DEBUG [remote_connection.py(_request:388)] - GET http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.7604659224029868-1/selected {"id": "0.7604659224029868-1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:32,705 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "GET /session/12ca2a501be07953186421c6f294074e/element/0.7604659224029868-1/selected HTTP/1.1" 200 72
+2019-06-18 19:43:32,706 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:32,706 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "link text", "value": "\u53bb\u7ed3\u7b97", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:32,742 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 102
+2019-06-18 19:43:32,743 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:32,743 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.7604659224029868-2/click {"id": "0.7604659224029868-2", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:33,064 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element/0.7604659224029868-2/click HTTP/1.1" 200 72
+2019-06-18 19:43:33,064 DEBUG [remote_connection.py(_request:440)] - Finished Request

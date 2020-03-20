@@ -1,0 +1,21 @@
+2019-06-18 19:43:21,128 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element/0.14652974541552188-1/click HTTP/1.1" 200 72
+2019-06-18 19:43:21,130 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,131 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "id", "value": "join_cart", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,148 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 102
+2019-06-18 19:43:21,148 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,149 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.1434414847985317-1/click {"id": "0.1434414847985317-1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,230 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element/0.1434414847985317-1/click HTTP/1.1" 200 72
+2019-06-18 19:43:21,231 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,231 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "css selector", "value": "iframe", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,413 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 102
+2019-06-18 19:43:21,414 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,414 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/frame {"id": {"ELEMENT": "0.1434414847985317-2", "element-6066-11e4-a52e-4f735466cecf": "0.1434414847985317-2"}, "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,436 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/frame HTTP/1.1" 200 72
+2019-06-18 19:43:21,436 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,437 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "css selector", "value": ".conect-title>span", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,453 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 103
+2019-06-18 19:43:21,453 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,453 DEBUG [remote_connection.py(_request:388)] - GET http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.38812686923753037-1/text {"id": "0.38812686923753037-1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:21,470 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "GET /session/12ca2a501be07953186421c6f294074e/element/0.38812686923753037-1/text HTTP/1.1" 200 82
+2019-06-18 19:43:21,471 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:21,471 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "link text", "value": "\u767b\u5f55", "sessionId": "12ca2a501be07953186421c6f294074e"}

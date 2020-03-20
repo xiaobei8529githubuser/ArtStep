@@ -1,0 +1,18 @@
+2019-06-18 19:43:46,340 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 368
+2019-06-18 19:43:46,341 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:46,342 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/url {"url": "http://127.0.0.1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:46,824 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/url HTTP/1.1" 200 72
+2019-06-18 19:43:46,824 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:46,825 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "link text", "value": "\u6211\u7684\u8ba2\u5355", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:46,878 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 102
+2019-06-18 19:43:46,878 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:46,878 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element/0.5072117129856599-1/click {"id": "0.5072117129856599-1", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:47,103 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element/0.5072117129856599-1/click HTTP/1.1" 200 72
+2019-06-18 19:43:47,103 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:47,104 DEBUG [remote_connection.py(_request:388)] - GET http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/window_handles {"sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:47,107 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "GET /session/12ca2a501be07953186421c6f294074e/window_handles HTTP/1.1" 200 157
+2019-06-18 19:43:47,108 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:47,108 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/window {"name": "CDwindow-EF95ED43A43A5C358940132917144E24", "sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:47,117 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/window HTTP/1.1" 200 72
+2019-06-18 19:43:47,117 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:47,118 DEBUG [remote_connection.py(_request:388)] - POST http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e/element {"using": "link text", "value": "\u5f85\u4ed8\u6b3e", "sessionId": "12ca2a501be07953186421c6f294074e"}

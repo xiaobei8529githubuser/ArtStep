@@ -1,0 +1,5 @@
+2019-06-18 19:43:57,658 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "POST /session/12ca2a501be07953186421c6f294074e/element HTTP/1.1" 200 365
+2019-06-18 19:43:57,659 DEBUG [remote_connection.py(_request:440)] - Finished Request
+2019-06-18 19:43:57,662 DEBUG [remote_connection.py(_request:388)] - DELETE http://127.0.0.1:56777/session/12ca2a501be07953186421c6f294074e {"sessionId": "12ca2a501be07953186421c6f294074e"}
+2019-06-18 19:43:57,766 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:56777 "DELETE /session/12ca2a501be07953186421c6f294074e HTTP/1.1" 200 72
+2019-06-18 19:43:57,767 DEBUG [remote_connection.py(_request:440)] - Finished Request
